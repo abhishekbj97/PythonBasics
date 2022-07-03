@@ -17,3 +17,12 @@
    5. while-else-while
    6. reverse string(extra concept)
    
+5. for-loop
+   
+   1. difference between string in [ ] and " "
+   2. for-else condition
+   3. important for-else condition 2ways when it is execute
+   4. nested loop
+   5. List
+   6. List can be created in two ways
+   
