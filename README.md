@@ -37,3 +37,7 @@
    1. list basics
    2. list comprehension
    3. basics function performed using list
+
+8. tuple set dictionary
+    
+     performed various basic operations on tuple set dictionary list  
