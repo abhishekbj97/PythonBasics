@@ -26,8 +26,14 @@
    5. List
    6. List can be created in two ways
    
-5. string-list
+6. string-list
   
    1. important because string is immutable
    2. concatination is only posssible list to list and string to string not list to string
    3. functions using list
+
+7. List
+   
+   1. list basics
+   2. list comprehension
+   3. basics function performed using list
