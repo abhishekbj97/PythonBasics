@@ -41,3 +41,7 @@
 8. tuple set dictionary
     
      performed various basic operations on tuple set dictionary list  
+
+9. function
+     
+      all possible basic functionalities and programming
